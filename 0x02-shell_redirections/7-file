@@ -1,2 +1,10 @@
-#!/bin/bash
-echo "Best School" > '\*\\'"'"'"Best School"\'"'"'\\*$\?\*\*\*\*\*:)'
+[master 4b3debe] It is a good file that cuts iron without making a noise
+ 8 files changed, 39 insertions(+), 4 deletions(-)
+ rewrite 0x02-shell_redirections/5-firstlines (100%)
+ rewrite 0x02-shell_redirections/6-third_line (100%)
+ create mode 100755 0x02-shell_redirections/7-file
+ create mode 100755 0x02-shell_redirections/7-file~
+ create mode 100755 0x02-shell_redirections/8-cwd_state
+ create mode 100755 0x02-shell_redirections/8-cwd_state~
+ create mode 100755 0x02-shell_redirections/9-duplicate_last_line
+ create mode 100755 0x02-shell_redirections/9-duplicate_last_line~
