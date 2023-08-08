@@ -1,2 +1,22 @@
-#!/bin/bash
-cat /etc/passwd | grep -v bin
+[master 85b174f] I hate bins
+ 20 files changed, 150 insertions(+), 14 deletions(-)
+ create mode 100755 0x02-shell_redirections/#21-reverse#
+ rewrite 0x02-shell_redirections/10-no_more_js (100%)
+ rewrite 0x02-shell_redirections/11-directories (100%)
+ rewrite 0x02-shell_redirections/12-newest_files (100%)
+ rewrite 0x02-shell_redirections/13-unique (100%)
+ rewrite 0x02-shell_redirections/14-findthatword (100%)
+ rewrite 0x02-shell_redirections/15-countthatword (100%)
+ rewrite 0x02-shell_redirections/16-whatsnext (100%)
+ create mode 100755 0x02-shell_redirections/17-hidethisword
+ create mode 100755 0x02-shell_redirections/17-hidethisword~
+ create mode 100755 0x02-shell_redirections/18-letteronly
+ create mode 100755 0x02-shell_redirections/18-letteronly~
+ create mode 100755 0x02-shell_redirections/19-AZ
+ create mode 100755 0x02-shell_redirections/19-AZ~
+ create mode 100755 0x02-shell_redirections/20-hiago
+ create mode 100755 0x02-shell_redirections/20-hiago~
+ create mode 100755 0x02-shell_redirections/21-reverse
+ create mode 100755 0x02-shell_redirections/21-reverse~
+ create mode 100755 0x02-shell_redirections/22-users_and_homes
+ create mode 100755 0x02-shell_redirections/22-users_and_homes~
