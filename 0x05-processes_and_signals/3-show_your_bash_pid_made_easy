@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# THIS BASH OUTPUT PID A LONG WITH THE PROCESS NAME.
+
+pgrep -l bash
