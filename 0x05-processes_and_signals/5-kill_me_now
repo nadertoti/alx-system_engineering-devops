@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# This bash kills a process using command kill.
-
-kill "$(ps -x | pgrep -f beyond)"
