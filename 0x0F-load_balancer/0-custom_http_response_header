@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-# configures a brand new Ubuntu machine to the requirements asked in this task
+# configures a brand new Ubuntu machine to the requirements:
+#+    run on port 80.
+#+    print "Hello world" when query is run.
+#+    The value of the HTTP header is the hostname.
 
 apt-get update
 apt-get install -y nginx
