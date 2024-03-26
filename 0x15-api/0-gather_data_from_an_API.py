@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 """
-Returns to-do list information for a given employee ID.
+Retrieves to-do list details associated with a specified employee.
 
-This script takes an employee ID as a command-line argument and fetches
-the corresponding user information and to-do list from the JSONPlaceholder API.
-It then prints the tasks completed by the employee.
+This script accepts an employee ID as a command-line argument and retrieves
+the user information and their to-do list from the JSONPlaceholder API.
+It subsequently displays the tasks completed by the employee.
 """
 
 import requests
