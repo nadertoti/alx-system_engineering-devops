@@ -11,7 +11,7 @@ def number_of_subscribers(subreddit):
     if subreddit is None or type(subreddit) is not str:
         return 0
     r = requests.get('http://www.reddit.com/r/{}/about.json'.format(subreddit),
-                     headers={'User-Agent': '0x16-api_advanced:project:\
-v1.0.0 (by /u/Humble_Market_9098)'}).json()
+                     headers={'User-Agent': 'api_advanced_project:\
+v1.0.0 (by /u/nadertoti)'}).json()
     subs = r.get("data", {}).get("subscribers", 0)
     return subs
